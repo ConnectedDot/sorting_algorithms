@@ -25,15 +25,6 @@ Read or watch:
 
 
 ---
-## Learning Objectives:bulb:
-What you should learn from this project:
-
-* At least four different sorting algorithms
-* What is the Big O notation, and how to evaluate the time complexity of an algorithm
-* How to select the best sorting algorithm for a given input
-* What is a stable sorting algorithm
-
----
 
 ### [0. Bubble sort](./0-bubble_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
